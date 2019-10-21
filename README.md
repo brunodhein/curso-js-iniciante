@@ -6,9 +6,13 @@ Resolução das questões produzida por este que vos escreve. :wink:
 
 Para os interessados em fazer o curso segue o link para o site: https://skylab.rocketseat.com.br/
 
+Para executar o cadastro existem daus opções incluindo usar uma conta github.
+
 ![screenshot](tutorial.jpg)
 
+Caso escolha se registrar no próprio site, basta preenhcer com suas informações.
 
+![screenshot](Captura de tela de 2019-10-21 14-53-42.png)
 
 
 ### Acesso aos exercícios:
