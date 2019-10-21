@@ -8,6 +8,6 @@ Para os interessados em fazer o curso segue o link para o site: https://skylab.r
 
 **acesso aos exercícios:
 
-*[Exercício 1](curso-js-iniciante/Exercício 1/)
+[oi](https://github.com/brunodhein/curso-js-iniciante/tree/master/Exerc%C3%ADcio%201)
 
 
