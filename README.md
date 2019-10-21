@@ -6,6 +6,11 @@ Resolução das questões produzida por este que vos escreve. :wink:
 
 Para os interessados em fazer o curso segue o link para o site: https://skylab.rocketseat.com.br/
 
+![screenshot](tutorial.jpg)
+
+
+
+
 ### Acesso aos exercícios:
 
 - [Exercício 1](https://github.com/brunodhein/curso-js-iniciante/tree/master/Exerc%C3%ADcio%201)
