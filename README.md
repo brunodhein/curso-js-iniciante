@@ -8,6 +8,6 @@ Para os interessados em fazer o curso segue o link para o site: https://skylab.r
 
 **acesso aos exercícios:
 
-*[Exercício 1](Captura de tela de 2019-10-21 14-53-42.png)
+*[Exercício 1](curso-js-iniciante/Exercício 1/)
 
 
