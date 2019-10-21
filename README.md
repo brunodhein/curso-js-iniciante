@@ -14,6 +14,7 @@ Caso escolha se registrar no próprio site, basta preenhcer com suas informaçõ
 
 ![screenshot](tutorial2.jpg)
 
+## [Módulo 1](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-1)
 
 ### Acesso aos exercícios:
 
