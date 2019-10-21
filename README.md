@@ -12,7 +12,7 @@ Para executar o cadastro existem daus opções incluindo usar uma conta github.
 
 Caso escolha se registrar no próprio site, basta preenhcer com suas informações.
 
-![screenshot](Captura de tela de 2019-10-21 14-53-42.png)
+![screenshot](tutorial2.jpg)
 
 
 ### Acesso aos exercícios:
