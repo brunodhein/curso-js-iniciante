@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Teste</title>
+    <meta charset="utf-8" />
+    <style>
+      button {
+        width: 90px;
+        height: 50px;
+        font-weight: bold;
+        box-shadow: 0 0 5px rgb(0, 0, 0);
+        background: rgba(17, 7, 7, 0.692);
+        color: white;
+        border-radius: 5px 0 5px 0;
+        border: none;
+        transition: 500ms;
+      }
+      button:hover {
+        background: rgba(141, 37, 37, 0.767);
+        transition: 500ms;
+        border-radius: 30px 0 30px 0;
+        cursor: pointer;
+      }
+      button:focus {
+        outline: none;
+        border: solid rgba(141, 37, 36, 0.767) 1px;
+      }
+      p {
+        position: relative;
+        left: 120px;
+        bottom: 60px;
+        background: brown;
+        color: white;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <button>CRIAR</button>
+    <p>GERADOR DE QUADRADOS</p>
+    <div class="container"></div>
+    <script>
+      var button1 = document.querySelector("button");
+
+      button1.onclick = function() {
+        var cubeElement = document.createElement("main");
+        cubeElement.setAttribute("class", "bt");
+
+        var bodyElement = document.querySelector(".container");
+        bodyElement.appendChild(cubeElement);
+
+        var cubestyleElement = document.getElementsByClassName("bt");
+        for (var i = 0; i < cubestyleElement.length; i++) {
+          cubestyleElement[i].setAttribute(
+            "style",
+            "background: #850900; height: 100px; width: 100px; border: solid #000 2px;"
+          );
+        }
+      };
+
+      /*
+      button1.onmouseleave = function() {
+        cubestyleElement.setAttribute("style", "background: #000;");
+      };*/
+    </script>
+  </body>
+</html>
