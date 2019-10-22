@@ -6,4 +6,4 @@ vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo 
 aparecer na tela.
 
 
-[Resolução do exercício 1:](https://codepen.io/brunodhein/pen/WNNpvvw)
+Resolução do exercício 1:[](https://codepen.io/brunodhein/pen/WNNpvvw)
