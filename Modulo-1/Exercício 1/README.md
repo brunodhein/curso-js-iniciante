@@ -1,4 +1,4 @@
- <h1>JS-Rocketseat</h1>
+<h1>JS-Rocketseat</h1>
 <h2>Exercicio 1 Variáveis e Dados</h2>
 Crie uma função que dado o objeto a seguir:
 
