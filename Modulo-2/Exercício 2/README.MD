@@ -18,4 +18,4 @@ var newColor = getRandomColor(); // #E943F0
 ```
 
 
-[Resolução do exercício 2:](https://codepen.io/brunodhein/pen/NWWpEyY)
+Resolução do exercício 2: [link](https://codepen.io/brunodhein/pen/NWWpEyY)
