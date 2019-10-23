@@ -24,6 +24,7 @@ Caso escolha se registrar no próprio site, basta preenhcer com suas informaçõ
 - [Exercício 4](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-1/Exerc%C3%ADcio%204)
 - [Exercício 5](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-1/Exerc%C3%ADcio%205)
 
+
 ## [Módulo 2](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-2)
 
 ### Acesso aos exercícios:
