@@ -40,6 +40,8 @@
     <p>GERADOR DE QUADRADOS</p>
     <div class="container"></div>
     <script>
+      var i = 0
+      
       var button1 = document.querySelector("button");
 
       button1.onclick = function() {
@@ -50,7 +52,7 @@
         bodyElement.appendChild(cubeElement);
 
         var cubestyleElement = document.getElementsByClassName("bt");
-        for (var i = 0; i < cubestyleElement.length; i++) {
+        for (i; i < cubestyleElement.length; i++) {
           cubestyleElement[i].setAttribute(
             "style",
             "background: #850900; height: 100px; width: 100px; border: solid #000 2px;"
