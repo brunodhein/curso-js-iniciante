@@ -15,4 +15,4 @@ Preencha uma lista "ul" no HTML com os itens da seguinte forma:
 
 ● Lucas
 
-[Resolução do exercício 3:](https://codepen.io/brunodhein/pen/JjjWVzO)
+Resolução do exercício 3: [link](https://codepen.io/brunodhein/pen/JjjWVzO)
