@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Teste</title>
+    <meta charset="utf-8" />
+    <style>
+      #inp {
+        background: rgba(255, 13, 13, 0.055);
+        border: 1px;
+        box-shadow: 0 0 3px #000;
+      }
+      button {
+        border: none;
+        background: rgba(100, 3, 3, 0.568);
+        color: white;
+        padding: 4px;
+        box-shadow: 0 0 2px #000;
+        transition: 400ms;
+      }
+      button:hover {
+        border-radius: 3px 0 3px 0;
+        background: #000;
+        transition: 400ms;
+      }
+    </style>
+  </head>
+  <body>
+    <input type="text" id="inp" /><button onclick="adicionar()">
+      ADICIONAR
+    </button>
+    <main id="mn"></main>
+  </body>
+  <script>
+    var nomes = ["Diego", " Gabriel", " Lucas"];
+
+    var input = document.querySelector("#inp");
+
+    function adicionar() {
+      list(input.value);
+    }
+
+    var ullist = document.createElement("ul");
+
+    nomes.forEach(list);
+
+    function list(value) {
+      var ullist_li = document.createElement("li");
+      ullist_li.append(value);
+      ullist.appendChild(ullist_li);
+    }
+
+    var main = document.querySelector("#mn");
+    main.appendChild(ullist);
+  </script>
+</html>
