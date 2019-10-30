@@ -28,10 +28,10 @@ var requestFunction = function() {
 };
 
 var timerRequest = function() {
-  setTimeout(newRequest, 2000);
+  setTimeout(startNewRequest, 2000);
 };
 
-function newRequest() {
+function startNewRequest() {
   requestFunction()
     .then(function(response) {
       var ulList = document.createElement("ul");
