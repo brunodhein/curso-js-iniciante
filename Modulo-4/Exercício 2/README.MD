@@ -26,4 +26,4 @@ Depois de preencher o input e adicionar, a seguinte lista deve aparecer abaixo:
 
 ```
 
-Resolução do exercício 2: [link]()
+Resolução do exercício 2: [link](https://codepen.io/brunodhein/pen/JjjOPrR)
