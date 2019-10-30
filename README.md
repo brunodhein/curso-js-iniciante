@@ -32,5 +32,5 @@ Caso escolha se registrar no próprio site, basta preenhcer com suas informaçõ
 - [Exercício 1](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-2/Exerc%C3%ADcio%201)
 - [Exercício 2](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-2/Exerc%C3%ADcio%202)
 - [Exercício 3](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-2/Exercício%203)
-- [Exercício 4](#)
-- [Exercício 5](#)
+- [Exercício 4](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-2/Exerc%C3%ADcio%204)
+
