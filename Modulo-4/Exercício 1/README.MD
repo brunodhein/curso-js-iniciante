@@ -21,4 +21,4 @@ checaIdade(20)
 ```
 
 
-Resolução do exercício 1: [link]()
+Resolução do exercício 1: [link](https://codepen.io/brunodhein/pen/dyyVQMK)
