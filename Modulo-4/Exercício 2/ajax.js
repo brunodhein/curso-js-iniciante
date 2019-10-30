@@ -27,7 +27,11 @@ var requestFunction = function() {
   });
 };
 
-var newCall = function() {
+var timerCall = function() {
+  setTimeout(newCall, 2000);
+};
+
+function newCall() {
   requestFunction()
     .then(function(response) {
       var ulList = document.createElement("ul");
@@ -43,6 +47,6 @@ var newCall = function() {
     .catch(function(error) {
       console.log(error);
     });
-};
+}
 
-btn.onclick = newCall;
+btn.onclick = timerCall;
