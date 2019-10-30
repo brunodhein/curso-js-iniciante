@@ -27,7 +27,7 @@ var requestFunction = function() {
   });
 };
 
-var newFunction = function() {
+var newCall = function() {
   requestFunction()
     .then(function(response) {
       var ulList = document.createElement("ul");
@@ -45,4 +45,4 @@ var newFunction = function() {
     });
 };
 
-btn.onclick = newFunction;
+btn.onclick = newCall;
