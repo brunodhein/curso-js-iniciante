@@ -16,7 +16,7 @@ Caso escolha se registrar no próprio site, basta preenhcer com suas informaçõ
 
 ## [Módulo 1](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-1)
 
-### Acesso aos exercícios:
+### Acesso a resolução dos exercícios:
 
 - [Exercício 1](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-1/Exerc%C3%ADcio%201)
 - [Exercício 2](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-1/Exerc%C3%ADcio%202)
@@ -27,7 +27,7 @@ Caso escolha se registrar no próprio site, basta preenhcer com suas informaçõ
 
 ## [Módulo 2](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-2)
 
-### Acesso aos exercícios:
+### Acesso a resolução dos exercícios:
 
 - [Exercício 1](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-2/Exerc%C3%ADcio%201)
 - [Exercício 2](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-2/Exerc%C3%ADcio%202)
@@ -37,7 +37,7 @@ Caso escolha se registrar no próprio site, basta preenhcer com suas informaçõ
 
 ## [Módulo 4](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-4)
 
-### Acesso aos exercícios:
+### Acesso a resolução dos exercícios:
 
 - [Exercício 1](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-4/Exerc%C3%ADcio%201)
 - [Exercício 2](https://github.com/brunodhein/curso-js-iniciante/tree/master/Modulo-4/Exerc%C3%ADcio%202)
